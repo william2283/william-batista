@@ -26,3 +26,16 @@
   ![Snake animation](https://github.com/diiegobsilva/diiegobsilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+## Aprendizagem por Projetos Integrados
+Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve projetos por semestre, com base em problemáticas reais do cenário empresarial e tecnológico. Esses projetos são oriundos de empresas grandes ou pequenas, dentre essas empresas se encontra a Pro4tech e a Embraer. No primeiro semestre o projeto foi desenvolvido a partir de um problema interno promovido pela Fatec SJC.  
+
+-  [x] [1º Semestre](https://github.com/Api2sem2021/Equipe-1)
+-  [x] [2º Semestre]https://github.com/equipe-amadeus/API-SegundoSem)
+-  [x] [3º Semestre](https://github.com/EquipeApolo/API_3_Semestre)
+-  [ ] 4º Semestre
+-  [ ] 5º Semestre
+-  [ ] 6º Semestre
+
+
+  ##
+<br>
