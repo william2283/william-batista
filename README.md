@@ -8,7 +8,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diiegobsilva&show_icons=true&count_private=true&hide_border=true&title_color=blueicon_color=E30B5C&text_color=FFF&bg_color=000" alt="Diego github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiegobsilva&layout=compact&hide_border=true&title_color=bluetext_color=FFF&bg_color=000" />
 
-   ![Snake animation](https://github.com/diiegobsilva/diiegobsilva/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
