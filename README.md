@@ -32,7 +32,7 @@ Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve proj
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{diiegobsilva}/count.svg" /></p> 
+<p align="center"><img align="center" src="" /></p> 
 <br></div>
   
 
